@@ -1,6 +1,6 @@
 # Shopware\Components\Model\EventSubscriber
 
-# [notify] [](https://github.com/shopware/shopware/blob/5.5/engine/Shopware/Components/Model/EventSubscriber.php#L196)
+# [notify] [](https://github.com/shopware/shopware/blob/5.6/engine/Shopware/Components/Model/EventSubscriber.php#L196)
 
 ## Parameters
 | Name        | Type           |
